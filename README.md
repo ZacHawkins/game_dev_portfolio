@@ -1,4 +1,4 @@
-# Zac Hawkins gamedev1 portfilio 2026 Phone 801-520-7561
+# Zac Hawkins gamedev1 portfilio 2026 zacmwh22@gmail.com
 
 ## [Certification](https://github.com/ZacHawkins/game_dev_portfolio/blob/main/images/Zac%20Hawkins_Game%20Development%20Fundamentals%201_12152025.pdf)
 
