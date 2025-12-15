@@ -22,5 +22,4 @@ My second priject in Game Developement 1-a, A group project that is a 2D top dow
 
 The objective of the game is to complete a race against an enemy car while avoiding the grass. Collecting nitro cans will give you a speed bost to help the player if behind.
 
-![Running Game](<img width="1900" height="1069" alt="image" src="https://github.com/user-attachments/assets/12d15e5d-eac5-4d3f-93e7-dc565b00e327" />
-)
+![Running Game](https://github.com/KBB774/Racing-TD-Game-Group-2025/blob/main/images/GamePhoto.png?raw=true)
