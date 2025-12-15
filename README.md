@@ -1,4 +1,4 @@
-S# Zac Hawkins gamedev1 portfilio 2026
+# Zac Hawkins gamedev1 portfilio 2026
 
 ## Projects for Term 1
 
