@@ -24,5 +24,5 @@ The objective of the game is to complete a race against an enemy car while avoid
 
 ![Running Game](https://github.com/KBB774/Racing-TD-Game-Group-2025/blob/main/images/GamePhoto.png?raw=true)
 
-*  [Source Code]([https://github.com/ZacHawkins/game_dev_portfolio/tree/main/src/SpaceGame](https://github.com/KBB774/Racing-TD-Game-Group-2025/tree/main/src/VelociKart_Racing))
+* [Source Code](https://github.com/KBB774/Racing-TD-Game-Group-2025/tree/main/src/VelociKart_Racing)
 
